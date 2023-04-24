@@ -27,7 +27,7 @@ function Home() {
             </Link>
           </div>
 
-          <div className="image-wrapper">{/*Placeholder*/}</div>
+          <div className="image-wrapper">{/* Placeholder */}</div>
         </div>
       </section>
     </>
